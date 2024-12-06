@@ -23,7 +23,7 @@ The Diabetes is to create a simple MVVM project in kotlin and compose
 - MVVM + MVI arch pattern
 - Coroutines
 - Channels & flows
-- Retrofit
+- Ktor
 - Datastore
 - Room
 - Proguard
